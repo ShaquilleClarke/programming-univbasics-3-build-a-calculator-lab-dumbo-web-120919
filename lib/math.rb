@@ -4,8 +4,8 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  remainder = num1 - num2
-  return remainder
+  difference = num1 - num2
+  return difference
 end
 
 def division(num1, num2)
